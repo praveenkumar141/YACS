@@ -1,0 +1,12 @@
+*.ndjson
+*.txt
+v
+v1
+adj_list
+adjlist
+*.csv
+*.log
+*.ipynb
+logs
+graphs
+*.pyc
